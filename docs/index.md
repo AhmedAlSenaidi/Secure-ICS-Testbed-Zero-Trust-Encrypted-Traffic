@@ -1,4 +1,4 @@
-# References for ICS Poster
+# References
 
 1. S. Maesschalck, “Next-Generation Industrial Control System (ICS) Security Towards ICS Honeypots for Defence-in-Depth Security,” 2023.
 
